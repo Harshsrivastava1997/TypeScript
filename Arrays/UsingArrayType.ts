@@ -23,5 +23,10 @@ for(let i=0;i<data.length;i++)
   console.log("Value at ",i,"position is : ",data[i])
 }
 
+//For-in loop
 
+for(let j in empName)
+{
+  console.log(empName[j])
+}
 
